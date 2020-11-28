@@ -1,0 +1,6 @@
+Instructions to run the given code.
+1) Open the command prompt and go to the specified drive or    destination where the project is saved. using the command    (cd.. or cd directory name)
+
+2) compile the code with command javac, for ex. javac     Test.java
+ 
+3)  Run the project using java command for ex. java Test
